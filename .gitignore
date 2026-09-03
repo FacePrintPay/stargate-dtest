@@ -11,5 +11,3 @@ upgrade
 html/
 doxygen/doxypy-0.4.2/
 felix-cache
-auth_test.py
-jmx_auth_test.py
